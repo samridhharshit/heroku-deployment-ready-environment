@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const url = process.env.MONGODB_URI
+const url = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.qcgnm.mongodb.net/couponcodevalidator?retryWrites=true&w=majority"
 
 const open = (uri = url) => {
 
