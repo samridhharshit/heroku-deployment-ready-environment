@@ -1,7 +1,7 @@
 {
-  "name": "antstack_tech",
+  "name": "herokudeploymentfornodereact",
   "version": "1.0.0",
-  "description": "Create an application to create and validate the coupon codes that support given features. ",
+  "description": "A blank ready to use Heroku deployment server for Node-react app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
